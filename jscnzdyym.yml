@@ -1,0 +1,12 @@
+payload:
+  # 内容：自定义
+  - DOMAIN-KEYWORD,xhamsterlive
+  - DOMAIN-KEYWORD,yahoo
+  - DOMAIN-SUFFIX,jscn.net
+  - DOMAIN-SUFFIX,arrowos.net
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,t-mobile.com
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,zh.xhamsterlive.com
